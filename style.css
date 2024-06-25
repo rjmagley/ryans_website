@@ -1,0 +1,21 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#main-content {
+    width: 60%;
+    min-height: 1000px;
+    margin: auto;
+    background-color: #CF80CF;
+}
+
+.keyboard-description {
+    width: 50%;
+    display: inline-block;
+}
+
+img {
+    width: 50%;
+    display: inline-block;
+}
